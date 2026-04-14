@@ -50,7 +50,7 @@ Key Features
 
 Output Preview
 
-"Output" (images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 
 
